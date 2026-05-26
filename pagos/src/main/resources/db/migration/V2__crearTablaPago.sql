@@ -1,12 +1,10 @@
-create table presupuesto (
+create table pago (
     id integer not null auto_increment,
     paciente_id integer,
     nombre_paciente varchar(255),
     rut_paciente varchar(13),
-    tratamiento varchar(255),
-    descripcion text,
-    monto_total double,
-    fecha_emision date,
+    presupuesto_id integer,
+    metodo_pago varchar(255),
     estado_pago varchar(255),
     primary key (id)
 );
