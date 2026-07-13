@@ -1,6 +1,6 @@
 #FileLock
-#Mon Jun 22 01:44:45 CLT 2026
+#Mon Jul 13 13:35:23 CLT 2026
 hostName=Dent-PC
-id=19eeddc104146b526c15514c4c7b39b3874738b2c07
+id=19f5c8c37c59fa0e891051df1d90c328300af56d03f
 method=file
-server=192.168.1.9\:58273
+server=192.168.1.14\:55185
